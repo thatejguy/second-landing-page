@@ -147,12 +147,49 @@ a {
     font-size: 36px;
     font-family: fantasy;
     font-weight: bold;
-    color: rgb(219, 219, 219);
+    color: rgb(0, 0, 0);
 }
 
 .quoteauthor {
     font-family: fantasy;
     color: black;
     font-weight: bolder;
+}
+
+.action {
+    height: 350px;
+    margin: 0 auto;
+    max-width: 975px;
+}
+
+.actioncontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+
+}
+
+.colorcontainer {
+    display: flex;
+    background-color: #da260e;
+    height: 150px;
+    width: 975px;
+    border-radius: 20px;
+    padding: 10px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.itstime {
+    color: white;
+    font-family: fantasy;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.actiontext {
+    color: white;
+    font-family: fantasy;
 }
 
