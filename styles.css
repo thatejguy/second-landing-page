@@ -57,6 +57,7 @@ a {
 .headerimage img {
     max-width: 500px;
     border-radius: 40px;
+    border: 5px solid red;
 }
 
 .headertext {
