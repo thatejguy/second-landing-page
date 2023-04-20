@@ -40,3 +40,21 @@ a {
     font-size: 20px;
     font-family: fantasy;
 }
+
+.header {
+    height: 350px;
+    background-color: #801515;
+
+}
+
+.headercontainer {
+    display: flex;
+    justify-content: space-between;
+    max-width: 975px;
+    margin: 0 auto;
+    gap: 20px;
+}
+
+.headerimage img {
+    max-width: 600px;
+}
