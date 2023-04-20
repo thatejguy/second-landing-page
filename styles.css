@@ -206,3 +206,21 @@ a {
     border-radius: 5px;
 }
 
+.footer {
+    height: 75px;
+    background-color: #5f1010;
+}
+
+.footertext {
+    color: white;
+    font-family: fantasy;
+    font-weight: bold;
+}
+
+.footercontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+}
+
