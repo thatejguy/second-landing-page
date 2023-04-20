@@ -191,5 +191,18 @@ a {
 .actiontext {
     color: white;
     font-family: fantasy;
+    font-weight: bold;
+}
+
+.actionbutton {
+    color: white;
+    background-color: #da260e;
+    margin-top: 20px;
+    margin-left: 10px;
+    border: 2px solid white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
 }
 
