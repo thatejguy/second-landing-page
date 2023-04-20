@@ -69,6 +69,7 @@ a {
 .headerparagraph {
     color: white;
     font-family: fantasy;
+    max-width: 400px;
 }
 
 .headerbutton {
