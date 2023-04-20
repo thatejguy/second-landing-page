@@ -128,3 +128,31 @@ a {
     text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
 
+.quote {
+    height: 350px;
+    background-color: #e91212;
+}
+
+.quotecontainer {
+    display: flex;
+    margin: 0 auto;
+    max-width: 975px;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    height: 350px;
+}
+
+.quotetext {
+    font-size: 36px;
+    font-family: fantasy;
+    font-weight: bold;
+    color: rgb(219, 219, 219);
+}
+
+.quoteauthor {
+    font-family: fantasy;
+    color: black;
+    font-weight: bolder;
+}
+
