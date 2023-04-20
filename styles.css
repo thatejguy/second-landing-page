@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+}
+
+.navbar {
+    background-color: #1f2937;
+    height: 50px;
+    padding: 32px;
+}
+
+.navcontainer {
+    display: flex;
+    justify-content: space-between;
+    max-width: 975px;
+    margin: 0 auto;
+}
+
+.navlogo {
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.navlist {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    font-size: 20px;
+}
